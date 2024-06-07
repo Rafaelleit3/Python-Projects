@@ -1,0 +1,23 @@
+# Ambiente virtual
+rvenv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de cache
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Diretorios de distribuição
+dist/
+build/
+*.egg-info/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
